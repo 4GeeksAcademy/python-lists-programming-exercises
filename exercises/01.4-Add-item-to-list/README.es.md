@@ -1,15 +1,19 @@
 # `01.4` Agregar elementos a la lista
 
-# 📝 Instrucciones
-1. Añadir 10 enteros aleatorios a la lista "arr".
+## 📝 Instrucciones
+
+1. Añadir 10 enteros aleatorios a la lista `arr`.
 
 
-## 💡 Pistas:
-- Tienes que importar la función "random": `import random`.
-- Usa la función `random()` para obtener números aleatorios.
+## 💡 Pista:
+
+- Tienes que importar la función `random` usando: `import random`.
+- Usa la función `random.randint()` para obtener números aleatorios.
+
 - Busca en Google cómo usar la función random.
 
-Lo esperado en la consola es algo similar a esto:
+## Resultado esperado:
+
 ```py
 [4, 5, 734, 43, 45, 36, 2, 88, 12, 87, 79, 96, 58, 46, 7]
 ```

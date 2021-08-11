@@ -1,11 +1,13 @@
-# `13.3` Filtrar una lista de texto
+# `13.3` Filtrar una lista de string
 
-# 📝 Instrucciones:
+## 📝 Instrucciones:
 
-1. Dada una lista de nombres, por favor, crea una función que filtre la lista
-   con solo los nombres que contengan un texto dado.
-2. La cadena de texto dada es `'am'`
-3. La búsqueda NO debería ser sensible a mayúsculas.
+1. Dada una lista de nombres, por favor, crea una función que filtre(`filter()`) de la lista csolo los nombres que contengan el string `am`.
+
+2. La búsqueda **NO debe ser sensible a mayúsculas (case sensitive)**.
+
+
+## Resultado esperado:
 
 ```py
 Resultado:
