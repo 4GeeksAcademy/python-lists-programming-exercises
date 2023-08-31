@@ -4,3 +4,6 @@ people = [ 'Lebron','Aaliyah','Diamond','Dominique','Aliyah','Jazmin','Darnell',
 
 # ✅ ↓ Your code goes here: ↓ ✅
 
+for pos, name in enumerate(people):
+    if name == 'Wally':
+        print(pos)
